@@ -1,0 +1,5 @@
+The dataset contains 150 records with no missing values or duplicates, making it clean and reliable for analysis.
+The target variable is perfectly balanced, with each Iris species having exactly 50 samples.
+Petal length and petal width show greater variability compared to sepal measurements.
+Iris-setosa is clearly distinguishable from the other species, while Iris-versicolor and Iris-virginica overlap slightly.
+Strong positive correlation exists between petal length and petal width, indicating their importance in classification.
